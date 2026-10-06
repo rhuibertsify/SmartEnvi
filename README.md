@@ -6,6 +6,6 @@ the street trees and building outlines are loaded from the `tiles/` folder as yo
 that when a page is opened straight from disk.
 
 - `index.html` – the map (all other data is built into the page)
-- `tiles/` – 40 data tiles with NYC Parks street and park trees and NYC building outlines
+- `tiles/` – 162 data tiles with NYC Parks street and park trees and NYC building outlines
 
 Data: NYC Open Data (NYC Parks, DEP, NYC Planning, NYC Health), The Nature Conservancy. See the Sources list in the map.
